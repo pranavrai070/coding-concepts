@@ -1,0 +1,1 @@
+{"name":"Local: largestelement","url":"d:\\C++ Practice\\Array\\largestelement.cpp","tests":[{"id":1633683929801,"input":"4\n5 8 10 2","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\C++ Practice\\Array\\largestelement.cpp","group":"local","local":true}
