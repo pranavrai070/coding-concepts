@@ -1,7 +1,7 @@
 {
+    "C_Cpp.clang_format_fallbackStyle": "clang.executable",
     "files.associations": {
-        "iostream": "cpp",
-        "ostream": "cpp"
+        "iostream": "cpp"
     },
     "C_Cpp.errorSquiggles": "Disabled"
 }
